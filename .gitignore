@@ -8,3 +8,5 @@ thumb
 .nyc_output/
 coverage
 coverage/*
+
+yarn.lock

@@ -1,5 +1,5 @@
 const model = require('./lib/model');
-const mysql = require('mysql');
+const mysql = require('mysql2');
 const Sequelize = require('sequelize');
 
 const Init = (rest, path) => {
